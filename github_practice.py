@@ -5,3 +5,7 @@ def max(x,y):
         return "they are equal"
     else:
         return f"{y} is bigger"
+    
+print(max(3,5))
+print(max(234,13245))
+print(max(2,2))
